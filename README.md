@@ -6,7 +6,7 @@ hello world in java.
 
 ## TODO
 
-- [ ] Create backlog with github todo items
+- [x] Create backlog with github todo items
 - [ ] Improve hello world
 
 ## Build
